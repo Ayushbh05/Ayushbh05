@@ -137,18 +137,18 @@
 <details>
   <summary>Ayush's Stats</summary> 
   <p align="center">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ayushbh05&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB21&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushB21&theme=algolia&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushbh05&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushbh05&theme=algolia&hide_border=true" alt="GitHub Streak" />
     
   </p>
   
 
   <p align="center">
-    <a href="https://github.com/AyushB21">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
+    <a href="https://github.com/Ayushbh05">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushbh05&theme=radical" alt="Ayush's Contributions"/>
     </a>
   </p>
 </details>
